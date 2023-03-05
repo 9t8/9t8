@@ -57,9 +57,9 @@ g: glass build (00077676)<br>
 . : anti ram for hybrid/anni (17747700)<br>
 n: predator stack (7 reload)<br>
 p: twin stack (7 reload; finicky)
-`
+`;
     }, 100);
-    document.body.appendChild(menu)
+    document.body.appendChild(menu);
 
     // shows latency and health numbers
     function f(e) {
@@ -168,5 +168,5 @@ p: twin stack (7 reload; finicky)
                 }, 151);
                 break;
         }
-    })
+    });
 }());
