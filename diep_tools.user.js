@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Diep Tools
-// @version      0.1
-// @description  diep.io keybindings, antiafk
-// @author       You
+// @name         Diep.io Tools
+// @version      1.0
+// @description  Diep.io keybindings and antiAFK
+// @author       David Li
 // @match        https://diep.io/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=diep.io
 // @grant        none
